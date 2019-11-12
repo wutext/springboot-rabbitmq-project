@@ -1,0 +1,6 @@
+server:
+  port: 5801
+
+spring:
+  application:
+    name: springboo-rabbitmq-listener

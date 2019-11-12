@@ -1,0 +1,12 @@
+server:
+  port: 5800
+
+spring:
+  application:
+    name: springboo-rabbitmq
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+    virtual-host: /
